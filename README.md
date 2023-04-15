@@ -41,13 +41,6 @@
 - Git, GitHub Actions, SonarQube
 - CloudWatch, Sentry, Pinpoint, NewRelic, Jenkins, Locust, Slack
 
-## 개발자
-
-| 이름  | Github                                    |
-|-----|-------------------------------------------|
-| 강승호 | [seungh0](https://github.com/seungh0)     |   
-| 고예림 | [yerimkoko](https://github.com/yerimkoko) |
-
 ## Contacts
 
 | 이름                | Email                       |
